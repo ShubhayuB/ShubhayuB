@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhayuB
 - 👀 I’m interested in contributing to Open Source Developments and would like to learn more about the UNIX systems.
-- 🌱 I’m currently learning Java and CPP.
-- 💞️ I’m looking to collaborate on Open Source Project
+- 🌱 I’m currently skilled in Java & C.
+- 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 You can reach me at shubhayubasu03@gmail.com and f20210957@pilani.bits-pilani.ac.in
 
 <!---
