@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhayuB
 - 👀 Currently Working on Data Analysis and Modelling. 
-- 🌱 Skilled in Java, C, Python & STATA.
+- 🌱 Skilled in Java, C & Python.
 - 💞️ I’m looking to collaborate on projects focused on Regression Modelling.
 - 📫 You can reach me at shubhayubasu03@gmail.com and f20210957@pilani.bits-pilani.ac.in
 
